@@ -1,0 +1,44 @@
+#letters {
+  overflow: hidden;
+  width: 750px;
+  height: 200px;
+}
+
+#letters_inner {
+  height: 200px;
+  width: 1600px;
+  overflow: hidden;
+  position: relative;
+}
+
+#letters_inner img {
+  float: left;
+  width: 50px;
+  height: 200px;
+}
+
+#row1 li
+{
+  display: inline;
+  list-style-type: none;
+  padding-right: 5px;
+}
+
+#row2 li
+{
+  display: inline;
+  list-style-type: none;
+  padding-right: 5px;
+}
+
+#row3 li
+{
+  display: inline;
+  list-style-type: none;
+  padding-right: 5px;
+}
+
+.buchstabe
+{
+  font-family : "monospace";
+}
